@@ -3,7 +3,7 @@
 📂 **Usage Instructions:**
 
 1. Run `Figure_Launcher.m` from the root folder of the package.
-2. Check the figure(s) or table(s) you want to reproduce and press **Run Simulation**. Multiple figures can be selected at once.
+2. Check the figure(s) or table you want to reproduce and press **Run Simulation**. Multiple figures can be selected at once.
 3. Alternatively, each script in the `scripts` folder can be run standalone (with the current directory set to `scripts`).
 4. You can also modify the parameters in the code to see how they affect the results.
 
