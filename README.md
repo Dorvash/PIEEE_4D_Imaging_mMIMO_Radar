@@ -46,7 +46,7 @@ In addition to base MATLAB, the scripts use functions from the following toolbox
 
 ---
 
-📖 **Manuscript Title:** *Recent Advances in mmWave 4D Imaging Radars: A Leap Towards Massive MIMO in Sensing*  
+📖 **Manuscript Title:** *Recent Advances in Millimeter-Wave 4-D Imaging Radars: A Leap Toward Massive MIMO in Sensing*  
 Published in **Proceedings of the IEEE**.  
 DOI: *10.1109/JPROC.2026.3719796*
 
